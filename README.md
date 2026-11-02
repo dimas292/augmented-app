@@ -1,4 +1,4 @@
-# ar
+# Augemented App
 
 Unity AR project built with Vuforia Engine.
 
