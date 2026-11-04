@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="marker2" size="1.000000 1.000000" />
-    <ImageTarget name="marker-50" size="50.000000 50.000000" />
-    <ImageTarget name="marker" size="1200.000000 1200.000000" />
+    <ImageTarget name="armarkerlocationpin" size="12.000000 8.000000" />
   </Tracking>
 </QCARConfig>
